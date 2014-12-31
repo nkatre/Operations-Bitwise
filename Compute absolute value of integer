@@ -1,0 +1,12 @@
+Compute absolute value of integer
+http://www.geeksforgeeks.org/compute-the-integer-absolute-value-abs-without-branching/
+BEFORE YOU GO AHEAD WITH THE ABOVE PROBLEM, PLEASE UNDERSTAND THE FOLLOWING:
+a. https://github.com/nkatre/Learning-Java/blob/master/Left%20Right%20Shift%20in%20Java
+b. How are positive numbers, negative numbers and characters represented in computer ?
+Ans. http://www.tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/core-formats.html 
+https://www.youtube.com/watch?v=HhtecBhM_oA
+c. How are negative numbers represented in computer ? (Ans. 2's complement)
+Ans. https://www.rit.edu/~w-asc/documents/services/resources/handouts/DM3%20Two's%20Complement.pdf
+d. Why are negative numbers represented as 2's complment in computer ?
+Ans. VERY NICELY EXPLAINED HERE: 
+http://stackoverflow.com/questions/1125304/why-is-twos-complement-used-to-represent-negative-numbers

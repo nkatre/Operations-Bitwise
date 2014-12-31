@@ -1,0 +1,7 @@
+Given an array in which all numbers except two are repeated once. (i.e. we have 2n+2 numbers and n numbers
+are occurring twice and remaining two have occurred once). Find those two numbers in the most efficient way.
+Source: http://www.geeksforgeeks.org/find-two-non-repeating-elements-in-an-array-of-repeating-elements/
+Solution: https://github.com/nkatre/Opearations-Variants-in-an-array/blob/master/Find2NonRepeatingNumbers
+                                                         OR
+The above question can also be given for String, where we need to find any two characters which are non-repeating in the String.
+Solution: https://github.com/nkatre/Opearations-Variants-in-an-array/blob/master/Find2NonRepeatingCharacters
